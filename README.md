@@ -1,1 +1,1 @@
-# These are some simple python excercises😃
+# These are some simple python exercises😃
