@@ -5,4 +5,4 @@ def multipyoradd(a,b):
         print(f"{a} x {b} = {c}")
     else:
         print(f"{a} + {b} = {d}")
-multipyoradd(int(input("Enter your first number:")),int(input("Enter your first number:")))
+multipyoradd(int(input("Enter your first number: ")),int(input("Enter your first number: ")))
